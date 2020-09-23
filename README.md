@@ -3,8 +3,8 @@ These codes are used for an arduino-based Elegoo Smart Robotic Car. The codes fo
 7-segment display, and more will be presented in this repository.
 
 Hello!
-If you have stumbled along this project, please read below. We will include important details about the code, as well as things to look
-out for. This repository will include many seperate codes that are entitled to do differing features. 
+
+This repository contains code I developed from my summer 2017 internship at Arizona State University, where I worked on paired robotic tracking and navigation.
 
 All of the codes initialize variables that connect voltages to specific pins. These will be labeled at the top of the code. Unless 
 you are using the Elegoo Smart Robotic Car V1.0 (that is what we used), it is very likely that you will need to either change these

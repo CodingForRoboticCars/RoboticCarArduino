@@ -1,4 +1,4 @@
-# RoboticCarArduino
+# Paired Robotic Tracking and Navigation with Elegoo Smart Robotic Cars (Arduino)
 These codes are used for an arduino-based Elegoo Smart Robotic Car. The codes for features such as autonomous tracking, dancing, 
 7-segment display, and more will be presented in this repository.
 
